@@ -1,4 +1,2 @@
-# tec-Speech
-TEC-1 speech synthesis with SP0256A-AL2
-
-Design by Craig Hart
+# tec-SMCH
+TEC-1 speech module using SP0256A-AL2 design by Craig Hart
