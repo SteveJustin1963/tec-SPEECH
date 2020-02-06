@@ -408,13 +408,7 @@ NUMBER ALLOPHONE DURATION SAMPLE
 * Z - 2B 07 02 15
 * Zero - 26 13 27 35 
 
-
-
-
-
-
-
-
+![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-5.png)
 
 
 
