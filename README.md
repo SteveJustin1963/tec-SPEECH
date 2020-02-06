@@ -53,56 +53,7 @@ Although a simple project, care should be taken to ensure that a good job is don
 ![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-3.png)
 ![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-4.png)
 
-Strip 6 wires from the ribbon cable, then connect the remaining 8 between the data lines and the DIP header. Connect power with the last two strands. Follow the diagram and you can't go wrong. Separate 4 of the remaining wires into individual lengths and solder into the 4 remaining holes on the module. Attach a matrix pin connector to the other end of each wire for connection to the TEC. Heatshrink each connector with the tubing supplied. A note on heatshrinking• Don't skip this section because you think it's a waste of time or too hard to do. Heatshrinking the connectors strengthens them and the wire is much less likely to break off. If you
-always melt the wire when shrinking
-over a candle, then try using the BARREL not the tip of your soldering iron.
-This gives you a better controlled heat
-source and a neat job can be done on
-those small connections.
-The last two lengths of wire connect to
-the speaker. Wire these up and the board
-is complete. Now for connection to the
-TEC. You will need to have your crystal
-oscillator inserted. If you do not currently own a crystal oscillator, you must
-purchase one with a 3.58MHz crystal. If
-you haVe a different frequency crystal
-fitted, it must be around 3.2 - 4.0MHz
-otherwise the sound will be too high or
-low pitched. A 2MHz or 8MHz crystal
-will not suffice.
-Insert a PC pin in port 5 pad, a second
-pin in the board for the WAIT line, and
-a third pin in the board for the RESET
-line. Most users will already have done
-so, but if not, see the wiring diagram for
-the three pin locations.
-The other pin you will have to connect
-as best you can. To tap the 3.5MHz
-signal, DO NOT connect to pin 6 of the
-Z80. This is because the crystal's frequency is divided by two before reaching the TEC board. Instead, solder a PC
-pin onto pin 8 of the 74LSO4 on the
-crystal oscillator PC. This is the
-3.5MHz clock output. 
-## TESTING
-Plug everything together and power
-up. If your TEC locks up or the unit
-makes strange sounds, remove power
-and go to the section on troubleshooting. Your TEC should start up as normal, with the unit deadly quiet. Enter the
-TEST PROGRAM and you should be
-greeted with a message. Listen carefully
-and let your hearing adjust to the metallic pitch. If all you can hear is junk,
-check your program, then if still no go,
-proceed to the troubleshooting section.
-If the test program produces recognisable output, try the other examples
-and then try making up a few words of
-your own. You will soon find that you
-can say just about any word, once you
-get the right allophones.
-There can be hours of fun even getting
-it to correctly pronounce your name.
-`Paul' is easy enough, but what about
-`Vouzopolous'?? or even common
-words like 'construction' and
-`calculator'?? With such a versatile
-unit, the sky's the limit. 
+Strip 6 wires from the ribbon cable, then connect the remaining 8 between the data lines and the DIP header. Connect power with the last two strands. Follow the diagram and you can't go wrong. Separate 4 of the remaining wires into individual lengths and solder into the 4 remaining holes on the module. Attach a matrix pin connector to the other end of each wire for connection to the TEC. Heatshrink each connector with the tubing supplied. A note on heatshrinking• Don't skip this section because you think it's a waste of time or too hard to do. Heatshrinking the connectors strengthens them and the wire is much less likely to break off. If you always melt the wire when shrinking over a candle, then try using the BARREL not the tip of your soldering iron. This gives you a better controlled heat source and a neat job can be done onthose small connections. The last two lengths of wire connect to the speaker. Wire these up and the board is complete. Now for connection to the TEC. You will need to have your crystal oscillator inserted. If you do not currently own a crystal oscillator, you must purchase one with a 3.58MHz crystal. If you haVe a different frequency crystal fitted, it must be around 3.2 - 4.0MHz otherwise the sound will be too high or low pitched. A 2MHz or 8MHz crystal will not suffice. Insert a PC pin in port 5 pad, a second pin in the board for the WAIT line, and a third pin in the board for the RESET line. Most users will already have done so, but if not, see the wiring diagram for the three pin locations. The other pin you will have to connect as best you can. To tap the 3.5MHz signal, DO NOT connect to pin 6 of the Z80. This is because the crystal's frequency is divided by two before reaching the TEC board. Instead, solder a PC pin onto pin 8 of the 74LSO4 on the crystal oscillator PC. This is the 3.5MHz clock output. 
 
+## TESTING
+Plug everything together and power up. If your TEC locks up or the unit makes strange sounds, remove power and go to the section on troubleshooting. Your TEC should start up as normal, with the unit deadly quiet. Enter the TEST PROGRAM and you should be greeted with a message. Listen carefully and let your hearing adjust to the metallic pitch. If all you can hear is junk, check your program, then if still no go, proceed to the troubleshooting section. If the test program produces recognisable output, try the other examples and then try making up a few words of your own. You will soon find that you can say just about any word, once you get the right allophones. There can be hours of fun even getting it to correctly pronounce your name. "Paul" is easy enough, but what about "Vouzopolous"? or even common words like "construction" and "calculator"? With such a versatile unit, the sky's the limit. 
