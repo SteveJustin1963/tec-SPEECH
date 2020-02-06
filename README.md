@@ -158,38 +158,53 @@ NUMBER ALLOPHONE DURATION SAMPLE
 *	18	-	14 11 0D 13 0B
 *	19	-	38 06 0B 0D 13 0B
 
-*	A 	14
-*	Alarm 	0F 2D 3B 10
-*	Alex 	1A 2D 07 29 37
-*	Alexandra 	1A 2D 07 29 37 1A 0B 15 27 0F
-*	All 	17 17 2D
-*	Am 	1A 10
-*	Amateur 	1A 10 1A 11 31 33
-*	An 	1A 0B
-*	And 	1A 0B 15
-*	April 	14 01 09 0E 0C 2D
-*	Are 	3B
-*	At 	1A 0D
-*	August 	17 1E 22 0F 37 11
+*	A -	14
+*	Alarm - 0F 2D 3B 10
+*	Alex - 1A 2D 07 29 37
+*	Alexandra - 1A 2D 07 29 37 1A 0B 15 27 0F
+*	All - 17 17 2D
+*	Am - 1A 10
+*	Amateur -	1A 10 1A 11 31 33
+*	An - 1A 0B
+*	And -	1A 0B 15
+*	April - 	14 01 09 0E 0C 2D
+*	Are -	3B
+*	At -	1A 0D
+*	August -	17 1E 22 0F 37 11
 
-*	B 	3F 13
-*	Baby 	01 3F 14 01 3F 13
-*	Bathe 	3F 14 36
-*	Bather 	3F 14 36 33
-*	Be 	3F 13
-*	Becky 	3F 07 29 13
-*	Bee 	3F 13
-*	Beer 	3F 3C
-*	Beth 	01 3F 07 1D
-*	Birthday 	01 3F 33 1D 01 14
-*	Bite 	01 3F 06 03 11
-*	Blank 	01 3F 2D 1A 0B 02
-*	Bob 	01 3F 18 18 01 3F
-*	Bread 	1C 27 07 07 00 15
-*	Brett	01 3F 27 07 03 11
-*	Brother	01 3F 27 0F 1D 33
-*	Buy	3F 18 06
-*	By	3F 18 06
-*	Byte	01 3F 06 03 11
-*	Bytes	01 3F 06 03 11 2B
+*	B -	3F 13
+*	Baby -	01 3F 14 01 3F 13
+*	Bathe -	3F 14 36
+*	Bather -	3F 14 36 33
+*	Be -	3F 13
+*	Becky -	3F 07 29 13
+*	Bee -	3F 13
+*	Beer -	3F 3C
+*	Beth -	01 3F 07 1D
+*	Birthday -	01 3F 33 1D 01 14
+*	Bite -	01 3F 06 03 11
+*	Blank -	01 3F 2D 1A 0B 02
+*	Bob -	01 3F 18 18 01 3F
+*	Bread -	1C 27 07 07 00 15
+*	Brett -	01 3F 27 07 03 11
+*	Brother -	01 3F 27 0F 1D 33
+*	Buy -	3F 18 06
+*	By -	3F 18 06
+*	Byte -	01 3F 06 03 11
+*	Bytes -	01 3F 06 03 11 2B
+
+* C - 37 37 13 
+* Calendar - 2A 1A 1A 2D 07 0B 01 21 33
+* Calling 08 17 3E 2D 0C 2C 
+* Cat - 2A 1A 02 0D
+* Check - 32 07 07 02 29
+* Checked - 32 07 07 02 29 0D
+* Checker - 32 07 07 02 2A 33 
+* Checkers - 32 07 07 02 2A 33 2B
+* Checking - 32 07 07 02 2A 0C 2C
+* Checks - 32 07 07 02 2A 37
+* Clock - 2A 2D 18 18 02 29
+* Close - 2A 2D 35 37 37 
+* Clown - 2A 2D 20 0B
+
 
