@@ -173,4 +173,5 @@ of the board. The clock line (clk) goes to
 pin 8 of the 74LSO4 on the crystal
 oscillator board. 
 
-https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-1.png
+![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-1.png)
+
