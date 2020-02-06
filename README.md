@@ -157,3 +157,17 @@ NUMBER ALLOPHONE DURATION SAMPLE
 *	18	-	14 11 0D 13 0B
 *	19	-	38 06 0B 0D 13 0B
 
+*	A 	14
+*	Alarm 	0F 2D 3B 10
+*	Alex 	1A 2D 07 29 37
+*	Alexandra 	1A 2D 07 29 37 1A 0B 15 27 0F
+*	All 	17 17 2D
+*	Am 	1A 10
+*	Amateur 	1A 10 1A 11 31 33
+*	An 	1A 0B
+*	And 	1A 0B 15
+*	April 	14 01 09 0E 0C 2D
+*	Are 	3B
+*	At 	1A 0D
+*	August 	17 1E 22 0F 37 11
+
