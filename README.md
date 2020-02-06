@@ -166,12 +166,5 @@ slang pronunciation. Voila! perfect. The
 words which were before just average
 became clearer and much more recognizable. 
 
-This diagram will make it easy to wire up
-the speech module. Connect the 12 leads
-as shown, to the lands on the underside
-of the board. The clock line (clk) goes to
-pin 8 of the 74LSO4 on the crystal
-oscillator board. 
-
 ![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-1.png)
 
