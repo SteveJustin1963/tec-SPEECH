@@ -127,3 +127,33 @@ NUMBER ALLOPHONE DURATION SAMPLE
 *	37	SS*	90	ms	Vest
 *	38	NN2	190	ms	No
 *	39	HH2	180	ms	Hoe
+*	3A	OR	330	ms	Store
+*	3B	AR	290	ms	Alarm
+*	3C	YR	350	ms	Clear
+*	3D	GG2	40	ms	Guest
+*	3E	EL	190	ms	Saddle
+*	3F	BB2	50	ms	Business
+*	"*	=	Repeating	Allophone"
+
+## BASIC DICTIONARY 
+
+*	0	2B 3C 35
+*	1	30 F 0B
+*	2	0D 1F
+*	3	36 27 13
+*	4	28 17 17 27
+*	5	28 06 23
+*	6	37 0C 29 37
+*	7	37 37 07 07 23 C 0B
+*	8	14 11
+*	9	38 06 0B
+*	10	0D 07 07 0B
+*	11	13 2D 07 23 34 0B
+*	12	0D 2E 07 3E 01 23
+*	13	1D 33 0D 13 0B
+*	14	28 17 27 0D 13 0B
+*	15	28 0C 28 0D 13 0B
+*	16	37 0C 29 37 0D 13 0B
+*	17	37 37 07 07 23 0C 0B 0D 13 0B
+*	18	14 11 0D 13 0B
+*	19	38 06 0B 0D 13 0B
