@@ -1,5 +1,6 @@
 # tec-SPEECH
 TEC-1 speech module using SP0256A-AL2 design by Craig Hart. 
+
 PCB redesigned by Ben Grimmett
 
 TE 15-26
@@ -170,4 +171,25 @@ NUMBER ALLOPHONE DURATION SAMPLE
 *	Are 	3B
 *	At 	1A 0D
 *	August 	17 1E 22 0F 37 11
+
+*	B 	3F 13
+*	Baby 	01 3F 14 01 3F 13
+*	Bathe 	3F 14 36
+*	Bather 	3F 14 36 33
+*	Be 	3F 13
+*	Becky 	3F 07 29 13
+*	Bee 	3F 13
+*	Beer 	3F 3C
+*	Beth 	01 3F 07 1D
+*	Birthday 	01 3F 33 1D 01 14
+*	Bite 	01 3F 06 03 11
+*	Blank 	01 3F 2D 1A 0B 02
+*	Bob 	01 3F 18 18 01 3F
+*	Bread 	1C 27 07 07 00 15
+*	Brett	01 3F 27 07 03 11
+*	Brother	01 3F 27 0F 1D 33
+*	Buy	3F 18 06
+*	By	3F 18 06
+*	Byte	01 3F 06 03 11
+*	Bytes	01 3F 06 03 11 2B
 
