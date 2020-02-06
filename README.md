@@ -168,3 +168,14 @@ became clearer and much more recognizable.
 
 ![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-1.png)
 
+# PAUSES AND REPEATING ALLOPHONES
+The five pauses are worthy of a
+separate mention. You must always
+pause after a word, to make the SPO
+stop talking. Use a PA1 or a PA2.
+Use PA3 or PA4 between sentances. Refer to the following table for
+when to use PA1, PA2, and PA3
+DURING words.
+PA1 Before BB, DD, GG and JH.
+PA2 Before some BB, DD, GG and JH.
+PA3 before PP, TT, KK, and CH. 
