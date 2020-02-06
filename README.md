@@ -206,5 +206,215 @@ NUMBER ALLOPHONE DURATION SAMPLE
 * Clock - 2A 2D 18 18 02 29
 * Close - 2A 2D 35 37 37 
 * Clown - 2A 2D 20 0B
+* Collide - 08 0F 2D 06 36
+* Computer - 2A 0F 10 09 31 16 11 33
+* Cookie - 08 1E 2A 13 
+* Correct - 2A 34 07 07 01 29 01 11
+* Correct - 2A 34 07 07 01 29 01 11 37
+* Corrected - 2A 34 07 07 01 29 01 0D 0C 01 15
+* Correcting - 2A 34 07 07 01 29 01 0D 0C 2C
+* Crane - 08 27 14 0B
+* Crown - 2A 27 20 0B
+
+* D - 21 13 
+* Data - 21 18 18 01 11 33
+* Date - 21 14 02 0D
+* Daughter - 21 17 0D 33
+* Day - 01 21 14
+* December - 15 13 00 37 07 30 1C 33
+* Dennis - 21 07 0B 0C 37
+* Disk - 21 0C 37 37 29
+* Divided - 21 0C 23 06 01 21 0C 01 15
+* Do - 03 21 16 1F
+* Drive - 21 27 06 36
+* Drives - 21 27 06 36 2B
+* E - 13
+* East - 13 37 11
+* Eight - 14 11
+* Eighteen - 14 11 0D 13 0B
+* Eighty - 14 0D 11 13
+* Eleven - 13 2D 07 23 34 0B
+* Emergency - 13 10 33 0A 07 0B 37 13
+* Engagement - 07 07 00 0B 24 14 01 0A 10 07 07 0B 01 02 0D
+* Engages - 07 07 00 0B 24 14 01 0A 0C 2B
+* Engaging - 07 07 00 0B 24 14 01 0A 0C 2C 
+* Enrage - 07 0B 0E 14 01 0A 
+* Enraged - 07 0B 0E 14 01 0A 01 15
+* Enrages - 07 0B 0E 14 01 0A 0C 2B
+* Enraging - 07 0B 0E 14 01 0A 0C 2C
+* Error - 07 07 27 00 33
+* Extent - 07 2A 37 0D 07 07 0B 0D
+* Exterminate - 07 29 37 0D 33 10 0C 00 14 0D
+* F - 07 07 28 28
+* Father - 28 3B 12 33
+* February - 28 07 1C 00 19 1F 34 13
+* Fifteen - 28 0C 28 0D 13 2B
+* Fifty - 28 0C 28 0D 13
+* Fir - 28 34
+* Five - 28 06 23
+* Fool 28 1E lE 2D
+* Force - 28 3A 37 37
+* Four - 28 17 17 27
+* Fourteen - 28 17 27 0D 13 0B
+* Forty - 28 17 27 0D 13 
+* Freeze - 28 28 0E 13 2B
+* Freezers - 28 28 0E 13 2B 33 2B
+* Friday - 28 27 06 01 21 14
+* From - 28 27 18 10 
+* Frozen - 28 28 0E 35 2B 07 0B
+
+* G - 0A 13 
+* Glenn - 01 22 2D 07 2C 
+
+* H - 14 01 02 32
+* Happy - 39 1A 09 13
+* Has - 1B 1B 1A 2B
+* Have - 1B 1B 1A 23
+* Hello - 1B 07 2D 35 
+* Hertz - 39 39 34 11 2B
+* How - 39 20
+* Hundred - 39 0F 0F 0B 01 21 27 0C 0C 00 15
+
+* I - 06
+* Idiot - 0C 01 21 0C 0C 0C 0F 11
+* In - 0C 0B
+* Input - 0C 0B 00 09 1E 11
+* Is - 0C 2B
+* It - 0C 03 11
+
+* J - 0A 07 14
+* January - 0A 1A 0B 1F 31 34 13
+* John - 0A 18 0B 
+* Julie - 0A 31 3E 13
+* July - 0A 1F 2D 06
+* June - 2A 1F 0B
+
+* K - 2A 07 14
+* Karen - 2A 1A 27 00 07 0B
+* Kilo - 2A 0C 2D 35 
+* Know - 38 35 
+* Kristy - 08 27 0C 37 11 13 
+
+* L - 07 07 3E 
+* Live - 2D 13 23 
+
+* M - 07 07 10 
+* March - 10 3B 32
+* Mark - 10 3B 29
+* May - 10 14
+* Memory - 10 07 10 18 27 13
+* MHz - 10 07 24 0F 39 39 34 11 2B
+* Minute - 10 0C 0B 0C 02 0D
+* Minutes - 10 0C 0B 0C 02 0D 2B
+* Modem - 10 35 01 21 07 10
+* Monday - 10 0F 0F 0B 01 21 14 
+* Month - 10 0F 0B 10 1D
+* Mother - 10 0F 36 33
+* My - 10 06 
+
+* N - 07 07 0B
+* Name - 38 14 10
+* Naughty - 38 17 17 02 11 13
+* Nine - 38 06 0B 
+* Nineteen - 38 06 0B 0D 13 0B
+* Ninety - 38 06 0B 0D 13 
+* No - 38 35
+* November - 38 35 00 23 07 10 1C 33
+
+* O - 35
+* October -18 29 00 11 35 1C 33
+* Of - 18 23
+* On - 18 0B 
+* One - 30 0F 0B
+* Or - 3A
+* Our - 20 33
+
+* P - 09 13
+* Past - 09 3B 37 0D
+* Penelope - 01 02 09 07 0B 07 2D 35 09 13
+* Penny - 01 02 09 07 0B 13
+* Point - 09 05 0B 11
+
+* Q - 2A 31 1F
+
+* R - 3B
+* RAM - 27 01 1A 1A 10
+* Rebecca - 0E 33 3F 07 02 08 3B
+* Ross - 0E 18 37 37
+
+* S - 07 07 37 37
+* Saturday - 37 37 1A 02 0D 33 21 14
+* September - 37 07 09 11 07 10 1C 33
+* Seven - 37 37 07 07 23 0C 0B
+* Seventeen - 37 37 07 07 23 0C 0B 0D 13 0B
+* Seventy - 37 37 07 07 23 0C 0B 0D 13
+* Sister - 37 37 0C 37 0D 33 
+* Six - 37 0C 29 37
+* Sixteen - 37 0C 29 37 0D 13 0B
+* Sixty - 37 0C 29 37 0D 13 
+* Son - 37 0F 0B
+* Sound - 37 20 0B 15
+* South - 37 37 20 1D
+* Space - 37 09 14 37
+* Speech - 37 09 13 32 
+* Statement - 37 01 11 14 01 11 10 07 0B 11
+* Sunday - 37 37 0F 0F 0B 02 21 14
+
+* T - 0D 13
+* Talker - 0D 17 17 01 29 33
+* Talking - 0D 17 17 02 2A 0C 2C
+* Television - 0D 07 2D 0C 23 0C 37 0C 18 0B
+* Ten - 0D 07 07 0B
+* Test - 0D 07 37 01 11 
+* Testing - 0D 07 37 01 11 0C 2C 
+* The - 12 13 
+* There - 36 07 2F 
+* Thirteen - 1D 33 0D 13 0B 
+* Thirty - 1D 33 0D 13 
+* This - 12 0C 37 
+* Thousand - 10 20 2B 1A 0B 15 
+* Three - 36 27 13 
+* Thursday - 1D 34 2B 01 21 1A 14 
+* Tim - 0D 1C 10 
+* Time - 0D 06 10
+* To - 0D 1F
+* Today - 0D 1F 21 14
+* Tuesday - 0D 31 2B 01 21 14
+* Twelve - 0D 2E 07 3E 01 23
+* Twenty - 0D 2E 07 0B 0D 13
+* Two - 0D 1F
+
+* U - 31 1F
+
+* V - 23 13
+* Vision - 23 0C 26 0C 0C 18 0B
+
+* W - 21 0F 01 3F 3E 1F
+* Want - 2E 18 0B 02 11
+* Wednesday - 2E 07 07 0B 2B 01 21 14
+* What - 30 18 02 11
+* Who - 39 lE 1F
+* With - 30 0C 1D
+
+* X - 07 07 02 29 37 37
+
+* Y - 2E 06
+
+* Year - 19 3C
+* Yes - 19 07 37 37
+* You - 19 1F
+* Your - 19 3A
+
+* Z - 2B 07 02 15
+* Zero - 26 13 27 35 
+
+
+
+
+
+
+
+
+
 
 
