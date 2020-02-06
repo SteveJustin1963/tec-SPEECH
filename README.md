@@ -64,27 +64,26 @@ amplified by the LM386.
 
 # PARTS LIST
 All resistors 1/4W 5%
-1 - 1k Brown Black Red
-1 - 82k Grey Red Orange
-1 - 10k trimpot.
-1 - 47n greencap.
-2 - 100n monoblock.
-2 - 4u7 electrolytic.
-1 - 10u electrolytic.
-1 - 100u electrolytic.
-1 - BC557 transistor.
-1 - LM386 amplifier IC.
-1 - SP0256A-AL2 Speech IC.
-1 - 8 pin IC socket.
-1 - 28 pin IC socket.
-1 - 8 ohm speaker.
-4 - PC pins.
-4 - PC pin connectors.
-1 - 20 cm length 14 way
-ribbon cable.
-1 - 24 pin DIP header.
-1 - 10 cm length 2mm heatshrink tubing. 
-1- 'SPEECH MODULE' PC board. 
+* 1 - 1k Brown Black Red
+* 1 - 82k Grey Red Orange
+* 1 - 10k trimpot.
+* 1 - 47n greencap.
+* 2 - 100n monoblock.
+* 2 - 4u7 electrolytic.
+* 1 - 10u electrolytic.
+* 1 - 100u electrolytic.
+* 1 - BC557 transistor.
+* 1 - LM386 amplifier IC.
+* 1 - SP0256A-AL2 Speech IC.
+* 1 - 8 pin IC socket.
+* 1 - 28 pin IC socket.
+* 1 - 8 ohm speaker.
+* 4 - PC pins.
+* 4 - PC pin connectors.
+* 1 - 20 cm length 14 way ribbon cable.
+* 1 - 24 pin DIP header.
+* 1 - 10 cm length 2mm heatshrink tubing. 
+* 1- 'SPEECH MODULE' PC board. 
 
 When speech output ceases, the wait
 line goes HIGH, and the TEC is able to
@@ -174,3 +173,4 @@ of the board. The clock line (clk) goes to
 pin 8 of the 74LSO4 on the crystal
 oscillator board. 
 
+https://github.com/SteveJustin1963/tec-SPEECH/blob/master/dia-1.png
