@@ -70,8 +70,8 @@ If you don't intend to fit a crystal oscillator to your TEC, you can put a cryst
 ## ALLOPHONE REFERENCE TABLE 
 NUMBER ALLOPHONE DURATION SAMPLE
 
-> 00 PA1 10 ms PAUSE
-> 01 PA2 30 ms PAUSE
+### 00 PA1 10 ms PAUSE
+### 01 PA2 30 ms PAUSE
 02 PA3 50 ms PAUSE
 03 PA4 100 ms PAUSE
 04 PM 200 ms PAUSE
