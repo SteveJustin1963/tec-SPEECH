@@ -69,61 +69,61 @@ If you don't intend to fit a crystal oscillator to your TEC, you can put a cryst
 
 ## ALLOPHONE REFERENCE TABLE 
 NUMBER ALLOPHONE DURATION SAMPLE
-0	PA1	10	ms	PAUSE
-1	PA2	30	ms	PAUSE
-2	PA3	50	ms	PAUSE
-3	PA4	100	ms	PAUSE
-4	PM	200	ms	PAUSE
-5	OY	420	ms	Boy
-6	AY	260	ms	Sky
-7	EH*	70	ms	End
-8	KK3	120	ms	Comb
-9	PP	210	ms	Pow
-OA	JH	140	ms	Dodge
-OB	NN1	140	ms	Thin
-OC	IH*	70	ms	Sit
-OD	TT2	140	ms	To
-OE	RR1	170	ms	Rural
-OF	AX*	70	ms	Succeed
-10	MM	180	ms	Milk
-11	TT1	100	ms	Part
-12	DHI	290	ms	They
-13	IY	250	ms	See
-14	EY	280	ms	Beige
-15	DD1	70	ms	Could
-16	UW1	100	ms	To
-17	AO*	100	ms	Aught
-18	AA*	100	ms	Hot
-19	YY2	180	ms	Yes
-IA	AE	120	ms	Hat
-1B	111-11	130	ms	He
-1C	BBI	80	ms	Business
-ID	TH*	180	ms	Thin
-lE	UH*	100	ms	Book
-1F	UW2	260	ms	Food
-20	AW	370	ms	Out
-21	DD2.	160	ms	Do
-22	GG3	140	ms	Wig
-23	VV	190	ms	Vest
-24	GG1	80	ms	Got
-25	SH	160	ms	Ship
-26	71-1	190	ms	Azure
-27	RR2	120	ms	Brain
-28	FF*	150	ms	Food
-29	KK2	190	ms	Sky
-2A	KK1	160	ms	Can't
-2B	ZZ	210	ms	Zoo
-2C	NG	220	ms	Anchor
-2D	LL	110	ms	Lake
-2E	WW	180	ms	Wool
-2F	XR	360	ms	Repair
-30	WH	200	ms	Whig
-31	YY1	130	ms	Yes
-32	CH	190	ms	Church
-33	ER1	160	ms	Fir
-34	ER2	300	ms	Fir
-35	OW	240	ms	Beau
-36	DH2	240	ms	They
-37	SS*	90	ms	Vest
-38	NN2	190	ms	No
-39	HH2	180	ms	Hoe
+*	0	PA1	10	ms	PAUSE
+*	1	PA2	30	ms	PAUSE
+*	2	PA3	50	ms	PAUSE
+*	3	PA4	100	ms	PAUSE
+*	4	PM	200	ms	PAUSE
+*	5	OY	420	ms	Boy
+*	6	AY	260	ms	Sky
+*	7	EH*	70	ms	End
+*	8	KK3	120	ms	Comb
+*	9	PP	210	ms	Pow
+*	OA	JH	140	ms	Dodge
+*	OB	NN1	140	ms	Thin
+*	OC	IH*	70	ms	Sit
+*	OD	TT2	140	ms	To
+*	OE	RR1	170	ms	Rural
+*	OF	AX*	70	ms	Succeed
+*	10	MM	180	ms	Milk
+*	11	TT1	100	ms	Part
+*	12	DHI	290	ms	They
+*	13	IY	250	ms	See
+*	14	EY	280	ms	Beige
+*	15	DD1	70	ms	Could
+*	16	UW1	100	ms	To
+*	17	AO*	100	ms	Aught
+*	18	AA*	100	ms	Hot
+*	19	YY2	180	ms	Yes
+*	IA	AE	120	ms	Hat
+*	1B	111-11	130	ms	He
+*	1C	BBI	80	ms	Business
+*	ID	TH*	180	ms	Thin
+*	lE	UH*	100	ms	Book
+*	1F	UW2	260	ms	Food
+*	20	AW	370	ms	Out
+*	21	DD2.	160	ms	Do
+*	22	GG3	140	ms	Wig
+*	23	VV	190	ms	Vest
+*	24	GG1	80	ms	Got
+*	25	SH	160	ms	Ship
+*	26	71-1	190	ms	Azure
+*	27	RR2	120	ms	Brain
+*	28	FF*	150	ms	Food
+*	29	KK2	190	ms	Sky
+*	2A	KK1	160	ms	Can't
+*	2B	ZZ	210	ms	Zoo
+*	2C	NG	220	ms	Anchor
+*	2D	LL	110	ms	Lake
+*	2E	WW	180	ms	Wool
+*	2F	XR	360	ms	Repair
+*	30	WH	200	ms	Whig
+*	31	YY1	130	ms	Yes
+*	32	CH	190	ms	Church
+*	33	ER1	160	ms	Fir
+*	34	ER2	300	ms	Fir
+*	35	OW	240	ms	Beau
+*	36	DH2	240	ms	They
+*	37	SS*	90	ms	Vest
+*	38	NN2	190	ms	No
+*	39	HH2	180	ms	Hoe
