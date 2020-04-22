@@ -1,6 +1,5 @@
 # tec-SPEECH TE 15-26
 
-![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/pics/spo256-bw.png)
 
 TEC-1 speech module using SP0256A-AL2 design by Craig Hart. 
 https://github.com/SteveJustin1963/tec-MAGAZINES/blob/master/talking_electronics_15.pdf
