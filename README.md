@@ -12,3 +12,5 @@ TEC-1 speech module using SP0256A-AL2 design by Craig Hart.
 - My sch capture; https://easyeda.com/editor#id=5b84270d48e340e1923a4a85a83d936f
 
  
+## interate
+- emoji on 8x8 led to compliment the speech
