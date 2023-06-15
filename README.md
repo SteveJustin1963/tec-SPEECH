@@ -1,6 +1,6 @@
 # tec-SPEECH 
 
-in issee of TE15 page 26
+in issue of TE15 page 26
 ![](https://github.com/SteveJustin1963/tec-SPEECH/blob/master/pics/spo256-bw.png)
 
 TEC-1 speech module using SP0256A-AL2 design by Craig Hart. 
@@ -12,5 +12,5 @@ TEC-1 speech module using SP0256A-AL2 design by Craig Hart.
 - My sch capture; https://easyeda.com/editor#id=5b84270d48e340e1923a4a85a83d936f
 
  
-## interate
+## iterate 
 - emoji on 8x8 led to compliment the speech
